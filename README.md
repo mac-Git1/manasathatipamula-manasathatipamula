@@ -16,5 +16,4 @@
 ### [Migraine Diagnosis ML](repo-url)  
 - 85% prediction accuracy with genetic data.  
 
-## 📈 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=manasathatipamula&theme=dark)](https://git.io/streak-stats)  
+
